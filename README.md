@@ -75,7 +75,6 @@ Ensure you have the following installed:
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Real-time Features**: Socket.IO
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
 ## Deployment
