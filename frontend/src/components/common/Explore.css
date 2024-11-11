@@ -1,0 +1,45 @@
+.explore-container {
+  background-color: #023439; /* Change background color to blue */
+  color: white; /* Change text color to white */
+  max-width: 5xl;
+  margin: auto;
+  padding: 40px;
+  text-align: center;
+  border-radius: 8px; /* Optional: add rounded corners */
+}
+
+.explore-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 32px;
+}
+
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); /* Responsive grid */
+  gap: 24px;
+}
+
+.feature-card {
+  background-color: white;
+  color: black; /* Change text color for card to black */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.feature-card:hover {
+  transform: scale(1.05); /* Scale effect on hover */
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+
+.feature-title {
+  font-size: 1.25rem;
+  font-weight:1.2rem;
+}

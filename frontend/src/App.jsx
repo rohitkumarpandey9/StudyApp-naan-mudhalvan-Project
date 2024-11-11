@@ -7,6 +7,11 @@ import Login from "./components/common/Login";
 import Register from "./components/common/Register";
 import Dashboard from "./components/common/Dashboard";
 import CourseContent from "./components/user/student/CourseContent";
+import Explore from "./components/common/Explore"
+ import AboutEducation from "./components/common/AboutEducation";
+import FooterExpend from "./components/common/footerExpend";
+//  import footerExpend from "./components/common/footerExpend";
+
 
 export const UserContext = createContext();
 
@@ -53,12 +58,21 @@ function App() {
                 <Route path="/login" element={<Login />} />
               )}
             </Routes>
+
+            
           </div>
-          <footer className="bg-light text-center text-lg-start">
-            <div className="text-center p-3">
-              © {date} Copyright: Study App
-            </div>
-          </footer>
+          {/* Add Explore component here */}
+          <Explore />
+          <AboutEducation/>
+          
+
+    <FooterExpend/> 
+
+    <footer style={{ backgroundColor: '#1eb2a6' }} className="text-center text-lg-start">
+    <div className="text-center p-3">
+        © {date} Copyright: Study App
+    </div>
+</footer>
         </Router>
       </div>
     </UserContext.Provider>
