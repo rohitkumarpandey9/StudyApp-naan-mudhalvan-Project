@@ -17,7 +17,7 @@
 - **Member 2**:  
   **Name**: Prince Kumar Ram  
   **Role**: Frontend Developer  
-  [Github Profile](https://github.com/princekumar-ram)
+  [Github Profile](https://github.com/princekumarram)
 
 
 - **Member 3**:  
