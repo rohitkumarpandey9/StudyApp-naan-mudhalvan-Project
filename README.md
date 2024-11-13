@@ -28,7 +28,7 @@
 
 - **Member 4**:  
   **Name**: Rohit Kumar Pandey  
-  **Role**: Frontend Developer  
+  **Role**: UI & UX Developer
   [Github Profile](https://github.com/rohitkumar-pandey)
 
 
