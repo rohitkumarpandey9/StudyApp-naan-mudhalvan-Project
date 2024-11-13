@@ -1,4 +1,4 @@
-# Full Stack Development with MERN
+# StudyApp
 
 
 ## 1. Introduction
