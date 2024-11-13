@@ -28,8 +28,8 @@
 
 - **Member 4**:  
   **Name**: Rohit Kumar Pandey  
-  **Role**: UI & UX Developer
-  [Github Profile](https://github.com/rohitkumar-pandey)
+  **Role**: UI UX Developer
+[Github Profile](https://github.com/rohitkumar-pandey)
 
 
 ---
