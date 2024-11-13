@@ -1,7 +1,8 @@
 
 
 import React from 'react'
-import b3 from '../../../public/images/blog/b3.webp'
+// import b3 from '../../../public/images/blog/b3.webp'
+import b3 from '../../assets/Images/b3.webp'
 
 import "./AboutEducation.css";
 
@@ -57,7 +58,7 @@ const AboutEducation = () => {
           {awrapper.map((val, index) => (
             <div className="box flex" key={index}>
               <div className="img">
-                {/* <img src={b3} alt="Awrapper Cover" /> */}
+                 {/* <img src={b3} alt="Awrapper Cover" height={100}/> */}
               </div>
               <div className="text">
                 <h1>{val.data}</h1>
