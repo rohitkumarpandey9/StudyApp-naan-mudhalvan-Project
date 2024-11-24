@@ -1,4 +1,4 @@
-# Full Stack Development with MERN
+# StudyApp
 
 
 ## 1. Introduction
@@ -17,7 +17,7 @@
 - **Member 2**:  
   **Name**: Prince Kumar Ram  
   **Role**: Frontend Developer  
-  [Github Profile](https://github.com/princekumar-ram)
+  [Github Profile](https://github.com/princekumarram)
 
 
 - **Member 3**:  
@@ -28,8 +28,8 @@
 
 - **Member 4**:  
   **Name**: Rohit Kumar Pandey  
-  **Role**: Frontend Developer  
-  [Github Profile](https://github.com/rohitkumar-pandey)
+  **Role**: UI UX Developer
+[Github Profile](https://github.com/rohitkumar-pandey)
 
 
 ---
