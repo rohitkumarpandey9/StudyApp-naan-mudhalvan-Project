@@ -216,9 +216,12 @@ Testing is conducted with **Jest** and **React Testing Library** on the frontend
 
 ## 11. Screenshots or Demo
 
+![Screenshot (2394)](https://github.com/user-attachments/assets/e656535f-e230-461d-b31d-cc49cd775241)
+![Screenshot (2393)](https://github.com/user-attachments/assets/195fb973-4b19-45d8-bd92-04f9a7977bb0)
+![Screenshot (2392)](https://github.com/user-attachments/assets/720168b2-8e30-413e-9d0e-78b66f6d425c)
+![Screenshot (2391)](https://github.com/user-attachments/assets/d85e3a85-3922-44b5-8a6e-a021f801ca2a)
+![Screenshot (2390)](https://github.com/user-attachments/assets/038d4a64-3cf9-46cf-9a06-f37ae963519a)
 
-- [Live Demo](https://study-app-naal.vercel.app)  
-- Add relevant screenshots to illustrate key features.
 
 
 ---
