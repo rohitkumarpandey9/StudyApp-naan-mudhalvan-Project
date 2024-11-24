@@ -221,6 +221,9 @@ Testing is conducted with **Jest** and **React Testing Library** on the frontend
 ![Screenshot (2392)](https://github.com/user-attachments/assets/720168b2-8e30-413e-9d0e-78b66f6d425c)
 ![Screenshot (2391)](https://github.com/user-attachments/assets/d85e3a85-3922-44b5-8a6e-a021f801ca2a)
 ![Screenshot (2390)](https://github.com/user-attachments/assets/038d4a64-3cf9-46cf-9a06-f37ae963519a)
+![Screenshot (2396)](https://github.com/user-attachments/assets/ecd0dfa8-3e1e-4b9c-803f-2ae862f0b6ad)
+![Screenshot (2395)](https://github.com/user-attachments/assets/e50697cf-16e0-45c8-8d2a-862d5c84e25b)
+
 
 
 
