@@ -58,7 +58,7 @@ const AboutEducation = () => {
           {awrapper.map((val, index) => (
             <div className="box flex" key={index}>
               <div className="img">
-                 {/* <img src={b3} alt="Awrapper Cover" height={100}/> */}
+                {/* <img src={b3} alt="Awrapper Cover" height={100}/> */}
               </div>
               <div className="text">
                 <h1>{val.data}</h1>
@@ -72,7 +72,8 @@ const AboutEducation = () => {
   );
 };
 
- 
+
 
 
 export default AboutEducation
+//df[odk]
